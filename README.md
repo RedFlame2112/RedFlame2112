@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Computing and AI/ML
 - 🌱 I’m currently learning Qiskit and Jupyter
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: Add me on discord @ manipulateMansplainMalewife#6502
+- 📫 How to reach me: Add me on discord @PorygonZ#3720
 
 <!---
 RedFlame2112/RedFlame2112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
