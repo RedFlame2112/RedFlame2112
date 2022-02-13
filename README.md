@@ -9,5 +9,5 @@
   - My discord is **manipulateMansplainMalewife#3720**
 
 
-[![Redflame's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedFlame2112)](https://github.com/RedFlame2112/github-readme-stat💻s&show_icons=true&theme=cobalt)
+![Redflame's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedFlame2112&show_icons=true&theme=radical)
 
