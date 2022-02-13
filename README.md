@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @RedFlame2112
-- 👀 I’m interested in Quantum Computing and AI/ML
-- 🌱 I’m currently learning Qiskit and Jupyter
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: Add me on discord @manipulateMansplainMalewife#3720
+# Hi there, I'm Sag! 👋
+- Currently a freshman @ the University of Illinois at Urbana Champaign 💻💻💻
+- On here quite often working on some sort of spare project in my free time 🙃
+- I love Mathematics, Programming, Computer Science, and Physics
+- Currently planning on pursuing a PhD in Quantum Computing ⚛️⚛️
+- You can contact me on Discord, Github, or Email! 
 
-<!---
-RedFlame2112/RedFlame2112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  - My personal email is [firebender2021@gmail.com](mailto:firebender2021@gmail.com)
+  - My discord is **manipulateMansplainMalewife#3720**
+
+
+[![Redflame's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedFlame2112)](https://github.com/RedFlame2112/github-readme-stat💻s)
+
