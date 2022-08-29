@@ -1,8 +1,8 @@
 # Hi there, I'm Sag! 👋
-- Currently a freshman @ the University of Illinois at Urbana Champaign 💻💻💻
+- Currently a sophomore @ the University of Illinois at Urbana Champaign 💻💻💻
 - On here quite often working on some sort of spare project in my free time 🙃
-- I love Mathematics, Programming, Computer Science, and Physics
-- Currently planning on pursuing a PhD in Quantum Computing ⚛️⚛️
+- I love Mathematics, Programming, Computer Science,
+- Currently interested in Web3 research and development
 - You can contact me on Discord, Github, or Email! 
 
   - My personal email is [firebender2021@gmail.com](mailto:firebender2021@gmail.com)
