@@ -6,7 +6,7 @@
 - You can contact me on Discord, Github, or Email! 
 
   - My personal email is [firebender2021@gmail.com](mailto:firebender2021@gmail.com)
-  - My discord is **manipulateMansplainMalewife#3720**
+  - My discord is **Quaternion#2112**
 
 
 ![Redflame's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedFlame2112&show_icons=true&theme=radical)
