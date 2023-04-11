@@ -6,5 +6,5 @@
 - You can contact me on Discord, Github, or Email! 
 
   - My personal email is [firebender2021@gmail.com](mailto:firebender2021@gmail.com)
-  - My discord is **Quaternion#2112**
+  - My discord is **Quaternion#9579**
 
