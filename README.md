@@ -1,5 +1,5 @@
 # Hi there, I'm Sag! 👋
-- Currently a sophomore @ the University of Illinois at Urbana Champaign 💻💻💻
+- Currently a junior @ the University of Illinois at Urbana Champaign 💻💻💻
 - On here quite often working on some sort of spare project in my free time 🙃
 - I love Mathematics, Programming, Computer Science,
 - My interests are Cryptography, Networking, AI/ML
