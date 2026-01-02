@@ -5,3 +5,4 @@
 - You can contact me on Discord below! 
   - My discord is **quaternion_**
 
+My website is at [https://dupedbyte.dev](https://dupedbyte.dev)
